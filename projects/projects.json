@@ -1,0 +1,105 @@
+[ 
+    
+    
+    {
+        "id": 1,
+        "name": "Scrumwise",
+        "desc": "An application that ensures the smooth excution of the Agile Scrum methodology and Project management.",
+        "image": "../assests/images/estimation (1).png",
+        "links": {
+            "view": "https://github.com/mehdinj1207/Scrum-App-Front-PFE-Talan",
+            "code": "https://github.com/mehdinj1207/Scrum-App-Front-PFE-Talan"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Digital Banking",
+        "desc": "a banking application with features that allow users to make transactions. As well as a dashboard and a user management system.",
+        "image": "../assests/images/transactions.PNG",
+        "links": {
+            "view": "https://github.com/mehdinj1207/Digital-Bank",
+            "code": "https://github.com/mehdinj1207/Digital-Bank"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Training center",
+        "desc": "An application to help a training center manage courses and instructors.",
+        "image": "../assests/images/2.png",
+        "links": {
+            "view": "https://github.com/mehdinj1207/PCD_BACK",
+            "code": "https://github.com/mehdinj1207/PCD_BACK"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Distributed Java Application",
+        "desc": "Development of a distributed java application for managing radars and traffic offences.",
+        "image": "../assests/images/img01.jpg",
+        "links": {
+            "view": "https://github.com/mehdinj1207/Gestion-Radars-App-Distributed-Architecture",
+            "code": "https://github.com/mehdinj1207/Gestion-Radars-App-Distributed-Architecture"
+        }
+    },
+    {
+        "id": 5,
+        "name": "DFJSP",
+        "desc": "Writing a program using Python in order to solve the The Distributed and Flexible Job shop Scheduling Problem",
+        "image": "../assests/images/machines-10-01100-g004-550.webp",
+        "links": {
+            "view": "https://github.com/mehdinj1207/NLP-project",
+            "code": "https://github.com/mehdinj1207/NLP-project"
+        }
+    },
+    {
+        "id": 6,
+        "name": "NLP Project",
+        "desc": "detection of typographical errors in the Arabic language",
+        "image": "../assests/images/AraBERT-and-mBERT-models-architecture.png",
+        "links": {
+            "view": "https://github.com/mehdinj1207/NLP-project",
+            "code": "https://github.com/mehdinj1207/NLP-project"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Automated test",
+        "desc": "automating the testing process in order to detects bugs in the plateform",
+        "image": "../assests/images/Unit-Testing-Framewo.jpg",
+        "links": {
+            "view": "https://github.com/mehdinj1207/Scrumwise-Selenium-CucumberBDD",
+            "code": "https://github.com/mehdinj1207/Scrumwise-Selenium-CucumberBDD"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Takuzu",
+        "desc": "A desktop application to  solve the captivating logic-based puzzle game where players fill a grid with 0s and 1s according to specific rules.",
+        "image": "../assests/images/takuzu_depart.jpg",
+        "links": {
+            "view": "https://github.com/mehdinj1207/Takuzu",
+            "code": "https://github.com/mehdinj1207/Takuzu"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Meta-Olympics",
+        "desc": "Meta-Olympics is an entire metaverse universe of the sports world.",
+        "image": "../assests/images/metaverse-etudes-tech-.jpg",
+        "links": {
+            "view": "https://github.com/mehdinj1207/Meta-olympics",
+            "code": "https://github.com/mehdinj1207/Meta-olympics"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Crpto-currency",
+        "desc": "this Project involved data cleaning and analysis to develop an insightful dashboard using Power BI. This dashboard visualizes key metrics and trends in the cryptocurrency market. ",
+        "image": "../assests/images/dashboard1.png",
+        "links": {
+            "view": "https://github.com/mehdinj1207/Crypto-currency",
+            "code": "https://github.com/mehdinj1207/Crypto-currency"
+        }
+    }
+    
+]
